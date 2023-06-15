@@ -1,0 +1,17 @@
+.box {
+    justify-content: center;
+}
+
+.container {
+    margin: 30px 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 0px 3%;
+}

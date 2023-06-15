@@ -1,0 +1,6 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    padding: 96px 128px;
+    background-color: #dedede;
+}
